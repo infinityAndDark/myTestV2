@@ -26,5 +26,6 @@ Algorithms for break line of text:
      + DIFFERENCE_LENGTH: LINE_ONE > LINE_TWO, 
        compare current with pre step --> choose less than --> return BREAK_INDEX
      + Create RESULT keyword with ORIGIN and BREAK_INDEX
+     
 (*Chia keyword thành các từ, tạo ra dòng chữ, mỗi dòng chứa 1 phần keyword, chạy vòng lặp di chuyển từng từ ở dòng dưới lên dòng trên và so sánh sự khác biệt về độ dài giữa 2 dòng, tìm được chênh lệch nhỏ nhất thì dừng lại)
     
