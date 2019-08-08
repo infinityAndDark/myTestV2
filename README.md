@@ -1,4 +1,4 @@
-# About the test
+# Solution for the test
 Enviroment:
 + Adnroid Studio 3.4.2 / Windows 10
 + Kotlin, androidx, retrofit, gradle-5.1.1
